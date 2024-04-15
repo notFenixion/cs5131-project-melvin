@@ -1,2 +1,4 @@
-# too-poor-to-win
-I love GPT-4
+# CS5131 Project
+
+MELVIN: Model for Evaluating Legitimacy using Intelligent Networks
+
